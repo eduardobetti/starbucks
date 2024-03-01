@@ -138,6 +138,7 @@ button:hover {
 .button-link {
     color: #ffffff;
     text-decoration: none;
+    display: grid;
 }
 
 .menu {
@@ -258,6 +259,7 @@ button:hover {
         justify-content: flex-start;
         margin-left: 5vw;
         width: auto;
+        z-index: -1;
     }
 
     .copo-starbucks {
