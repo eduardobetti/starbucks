@@ -1,4 +1,4 @@
-:coffee:<h1> Starbucks </h1>:coffee:
+<h1>:coffee: Starbucks :coffee:</h1>
 <br>
 <img src="./assets/mockup.png" alt="mockup-starbucks">
 <br>
