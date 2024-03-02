@@ -8,15 +8,15 @@
 <p>Pude constatar minha evolução desde aquele primeiro dia de aula, em que conheci um pouco da didática do professor Rodolfo, até hoje e me sinto preparado para encarar os novos desafios 
 que estão por vir tanto no curso, quanto na vida profissional.</p>
 <p>Espero que apreciem meu projeto.</p>
-
-<h3>Tecnologias utilizadas:</h3>
+<br>
+<h2>Tecnologias utilizadas:</h2>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<h5>Curiosidades:</h5>
+<br>
+<h2>Curiosidades:</h2>
 
 <p>Este foi o primeiro projeto em que apliquei o "dark-mode", que permite ao usuário alterar a coloração de alguns elementos da tela, principalmente a cor de fundo, para que a visualização se torne mais agradável aos olhos</p>
